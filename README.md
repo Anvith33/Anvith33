@@ -9,6 +9,9 @@
 ### 🛠️ Tech Stack
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 
+### 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=Anvith33&show_icons=true&theme=tokyonight)
+
 ## 🐍 Snake
 
 ![Snake animation](https://raw.githubusercontent.com/Anvith33/Anvith33/output/github-contribution-grid-snake-dark.svg)
