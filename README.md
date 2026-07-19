@@ -9,6 +9,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 <h3 align="center"> 📊 GitHub Stats</h3>
+
 ![Stats]( https://github-stats-extended.vercel.app/api?username=Anvith33&show_icons=true&theme=tokyonight)
 
 
@@ -16,4 +17,5 @@
 [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN) -->
 
 <h3> 🐍 Snake </h3>
+
 ![Snake animation](https://raw.githubusercontent.com/Anvith33/Anvith33/output/github-contribution-grid-snake-dark.svg)
