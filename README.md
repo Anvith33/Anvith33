@@ -1,15 +1,13 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Anvith Chakote</h1>
 <h3 align="center">AI Engineer | Machine Learning Engineer</h3>
  
 - 🔭 Final Year AI & ML Engineering Student
 - 💼 Looking for Software Engineer / AIML Engineer opportunities
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 ![Stats]( https://github-stats-extended.vercel.app/api?username=Anvith33&show_icons=true&theme=tokyonight)
 
 <!-- ### 🤝 Connect
