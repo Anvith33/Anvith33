@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🐍 Contribution Snake
+## 🐍 Snake
 
 ![Snake animation](https://raw.githubusercontent.com/Anvith33/Anvith33/output/github-contribution-grid-snake-dark.svg)
