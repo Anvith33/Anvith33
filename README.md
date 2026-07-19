@@ -10,7 +10,7 @@
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 
 ### 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Anvith33&show_icons=true&theme=tokyonight)
+![Stats]( https://github-stats-extended.vercel.app/api?username=Anvith33&show_icons=true&theme=tokyonight)
 
 ### 🤝 Connect
 [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN)
