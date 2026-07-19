@@ -4,6 +4,10 @@
 <h3 align="center">AI Engineer | Machine Learning Engineer</h3>
  
 - 🔭 Final Year AI & ML Engineering Student
+- 💼 Looking for Software Engineer / AIML Engineer opportunities
+
+### 🛠️ Tech Stack
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 
 ## 🐍 Snake
 
