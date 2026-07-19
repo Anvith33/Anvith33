@@ -9,6 +9,7 @@
 
 ## 📊 GitHub Stats
 ![Stats]( https://github-stats-extended.vercel.app/api?username=Anvith33&show_icons=true&theme=tokyonight)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 <!-- ### 🤝 Connect
 [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN) -->
