@@ -12,8 +12,8 @@
 ### 📊 GitHub Stats
 ![Stats]( https://github-stats-extended.vercel.app/api?username=Anvith33&show_icons=true&theme=tokyonight)
 
-### 🤝 Connect
-[LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN)
+<!-- ### 🤝 Connect
+[LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN) -->
 
 ## 🐍 Snake
 
