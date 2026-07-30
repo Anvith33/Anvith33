@@ -3,7 +3,3 @@
  
 - 🔭 Final Year AI & ML Engineering Student
 - 💼 Looking for Software Engineer / AIML Engineer opportunities
-
-## 🐍 Snake
-
-![Snake animation](https://raw.githubusercontent.com/Anvith33/Anvith33/output/github-contribution-grid-snake-dark.svg)
